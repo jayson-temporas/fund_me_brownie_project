@@ -7,7 +7,7 @@ Example Eth Brownie project that can be deploy on dev network, rinkeby and mainn
 Create .env file from .env-local 
 
 ```
-cp .env .env-local
+cp .env-local .env
 ```
 
 PRIVATE_KEY - your eth private key, get it on metamask/ganache
